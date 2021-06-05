@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 I am a passionate programmer who is a lot into Machine Learning and AI. I love doing projects related to ML 💻. I am an ethical hacking enthusiastic and looking into hacking with python. I am currently undergoing a degree under the University of Westminister, London.👨‍🎓
 
 ### What I do for fun? ⚡
+- I love doing python programming 💻
 - I love gaming 🎮
 - Playing basketball 🏀
 - Watching tech videos on youtube (Like Unbox Therapy) 📱
