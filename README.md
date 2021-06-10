@@ -22,7 +22,7 @@ I am a passionate programmer who is a lot into Machine Learning and AI. I love d
 ### What I do for fun? ⚡
 - I love doing python programming 💻
 - I love gaming 🎮
-- Playing basketball 🏀
+- I like watching car videos 🏎 
 - Watching tech videos on youtube (Like Unbox Therapy) 📱
 - Listening to Music 🎧
 
